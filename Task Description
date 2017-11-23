@@ -1,7 +1,7 @@
-Task Description:
+<h2>Task Description:</h2>
 
--If you are a developer with basic html skills this task might be for you. 
-1. Setup a running website on GitHub
+<h3>-If you are a developer this might be for you. </h3>
+<h4>1. Setup a running website on GitHub
 2. SteemitArabia Title
 3. A steemit like website.
 4. Open for adding new features.
@@ -10,4 +10,4 @@ Task Description:
 7. Arabic lang. capabilities is a must.
 8. All relevant html elements need a CSS class.
 9. Create a Style sheet without any more styling then you need.
-12. Connected to steem block chain throe steemconnict2.
+12. Connected to steem block chain throe steemconnict2.</h4>
