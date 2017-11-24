@@ -12,7 +12,9 @@
 <h3>-If you are a developer this might be for you. </h3>
 
 <h4>1.Setup a running website on GitHub
+
 i.index.html need work.
+
 2. SteemitArabia Title.
 3. A steemit like website.
 4. Open for adding new features.
@@ -21,4 +23,5 @@ i.index.html need work.
 7. All relevant html elements need a CSS class.
 8. Create a Style sheet without any more styling then you need.
 9. Connected to steem block chain throw steemconnict2.</h4>
+
 ****************************************************************
